@@ -1,0 +1,26 @@
+\babel@toc {spanish}{}\relax 
+\contentsline {section}{\numberline {1}Introducción}{1}{section.1}%
+\contentsline {section}{\numberline {2}Pregunta 1}{2}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Parámetros representativos de la cuenca}{2}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Información de Caudales Medios}{4}{subsection.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.1}Caudales Medios Mensuales}{4}{subsubsection.2.2.1}%
+\contentsline {subsubsection}{\numberline {2.2.2}Caudales Medios Temporada}{5}{subsubsection.2.2.2}%
+\contentsline {subsection}{\numberline {2.3}Información de Precipitaciones Medias}{6}{subsection.2.3}%
+\contentsline {subsubsection}{\numberline {2.3.1}Estación Río Mapocho En Los Almendros}{6}{subsubsection.2.3.1}%
+\contentsline {subsubsection}{\numberline {2.3.2}Estación Río Molina Antes de junta con San Francisco}{6}{subsubsection.2.3.2}%
+\contentsline {subsubsection}{\numberline {2.3.3}Estación La Ermita Central En Bocatoma}{6}{subsubsection.2.3.3}%
+\contentsline {subsubsection}{\numberline {2.3.4}Estación Río San Francisco Antes de junta con Estero Yerba Loca}{7}{subsubsection.2.3.4}%
+\contentsline {subsubsection}{\numberline {2.3.5}Estacion Estero Yerba Loca En Piedra Carvajal}{7}{subsubsection.2.3.5}%
+\contentsline {subsubsection}{\numberline {2.3.6}Precipitaciones promedio mensuales según las 5 zonas}{8}{subsubsection.2.3.6}%
+\contentsline {subsubsection}{\numberline {2.3.7}Precipitaciones promedio anuales según las 5 zonas}{9}{subsubsection.2.3.7}%
+\contentsline {subsection}{\numberline {2.4}Balance Hidrológico}{10}{subsection.2.4}%
+\contentsline {subsubsection}{\numberline {2.4.1}Simplificación de la Ecuación}{10}{subsubsection.2.4.1}%
+\contentsline {subsubsection}{\numberline {2.4.2}Cálculo de la Evapotranspiración}{10}{subsubsection.2.4.2}%
+\contentsline {subsection}{\numberline {2.5}Cálculo de la Evaporación Media Anual y Mensual}{10}{subsection.2.5}%
+\contentsline {subsubsection}{\numberline {2.5.1}Evaporación Media Anual}{10}{subsubsection.2.5.1}%
+\contentsline {subsubsection}{\numberline {2.5.2}Evaporación Media Mensual}{10}{subsubsection.2.5.2}%
+\contentsline {section}{\numberline {3}Pregunta 2}{11}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Datos sobre el Cauce y Embalse}{11}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Supuestos y Ecuaciones Utilizadas}{11}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Resultados Obtenidos}{12}{subsection.3.3}%
+\contentsline {section}{\numberline {4}Conclusión}{13}{section.4}%
