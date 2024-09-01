@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1725226291.22877 "c:/Users/A/Desktop/Uandes/8vo_semestre/Hidrología/t1/TAREA_1_HIDROLOGIA/INFORME/informe.tex" "build/informe.pdf" "informe" 1725226297.30582 0
+["pdflatex"] 1725227513.33928 "c:/Users/A/Desktop/Uandes/8vo_semestre/Hidrología/t1/TAREA_1_HIDROLOGIA/INFORME/informe.tex" "build/informe.pdf" "informe" 1725227518.78632 0
   "C:/Users/A/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1725209789 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/A/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcbx0900.pk" 1725225599 10788 9e60f114092553401f05ee1ef0ccb995 ""
   "C:/Users/A/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1000.pk" 1722890009 11548 068e7275f20c22bf76bbb3e7ea995c7a ""
@@ -172,12 +172,14 @@
   "C:/Users/A/Desktop/Programar/miketex/tex/latex/tools/calc.sty" 1700599895 10214 547fd4d29642cb7c80bf54b49d447f01 ""
   "C:/Users/A/Desktop/Programar/miketex/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/A/Desktop/Programar/miketex/tex/latex/xcolor/xcolor.sty" 1700127522 55487 80a65caedd3722f4c20a14a69e785d8f ""
+  "GRAFICOS/Precipitación Anual.png" 1725226742 28581 bf1f324763eba570525036528919804d ""
+  "GRAFICOS/Precipitación Mensual promedio.png" 1725226717 40176 7d1b28e2e82b9a9081af56479c657981 ""
   "LOGO_UNIVERSIDAD.jpg" 1725225541 209820 2134e729a4493a99d3d34c719af1eecf ""
-  "build/informe.aux" 1725226296 6722 699b31507069e5b2a1622914fb4e9ba9 "pdflatex"
-  "build/informe.out" 1725226296 5816 9d824fc25f7410865ffb9e5dc5f2a1bf "pdflatex"
-  "build/informe.toc" 1725226296 2597 d5bbd87166d97d6889c3f211ee79de1f "pdflatex"
-  "c:/Users/A/Desktop/Uandes/8vo_semestre/Hidrología/t1/TAREA_1_HIDROLOGIA/INFORME/informe.tex" 1725226290 36601 081e5b3f3e68ab61c3c60a91c84efca7 ""
-  "informe.tex" 1725226290 36601 081e5b3f3e68ab61c3c60a91c84efca7 ""
+  "build/informe.aux" 1725227517 7505 5f6c5eb1a74aa9795076aa64259cc2d7 "pdflatex"
+  "build/informe.out" 1725227517 6422 9fff01b8692236b90e09df1313509e30 "pdflatex"
+  "build/informe.toc" 1725227517 2841 637be21f868a2c3cb20b83d66f475b31 "pdflatex"
+  "c:/Users/A/Desktop/Uandes/8vo_semestre/Hidrología/t1/TAREA_1_HIDROLOGIA/INFORME/informe.tex" 1725227507 37184 dbee59d766e49357160be75c1f3e9977 ""
+  "informe.tex" 1725227507 37184 dbee59d766e49357160be75c1f3e9977 ""
   (generated)
   "build/informe.aux"
   "build/informe.log"
