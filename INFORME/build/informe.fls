@@ -296,14 +296,8 @@ INPUT C:\Users\A\Desktop\Programar\miketex\tex\latex\grfext\grfext.sty
 INPUT C:\Users\A\Desktop\Programar\miketex\tex\latex\00miktex\epstopdf-sys.cfg
 INPUT C:\Users\A\Desktop\Programar\miketex\tex\latex\00miktex\epstopdf-sys.cfg
 INPUT C:\Users\A\Desktop\Programar\miketex\tex\latex\00miktex\epstopdf-sys.cfg
-INPUT c:\Users\A\Desktop\Uandes\8vo_semestre\Hidrología\t1\TAREA_1_HIDROLOGIA\INFORME\build\informe.out
-INPUT c:\Users\A\Desktop\Uandes\8vo_semestre\Hidrología\t1\TAREA_1_HIDROLOGIA\INFORME\build\informe.out
-INPUT c:\Users\A\Desktop\Uandes\8vo_semestre\Hidrología\t1\TAREA_1_HIDROLOGIA\INFORME\build\informe.out
-INPUT c:\Users\A\Desktop\Uandes\8vo_semestre\Hidrología\t1\TAREA_1_HIDROLOGIA\INFORME\build\informe.out
-OUTPUT c:\Users\A\Desktop\Uandes\8vo_semestre\Hidrología\t1\TAREA_1_HIDROLOGIA\INFORME\build\informe.pdf
-INPUT c:\Users\A\Desktop\Uandes\8vo_semestre\Hidrología\t1\TAREA_1_HIDROLOGIA\INFORME\build\informe.out
-INPUT c:\Users\A\Desktop\Uandes\8vo_semestre\Hidrología\t1\TAREA_1_HIDROLOGIA\INFORME\build\informe.out
 OUTPUT c:\Users\A\Desktop\Uandes\8vo_semestre\Hidrología\t1\TAREA_1_HIDROLOGIA\INFORME\build\informe.out
+OUTPUT c:\Users\A\Desktop\Uandes\8vo_semestre\Hidrología\t1\TAREA_1_HIDROLOGIA\INFORME\build\informe.pdf
 INPUT .\LOGO_UNIVERSIDAD.jpg
 INPUT .\LOGO_UNIVERSIDAD.jpg
 INPUT .\LOGO_UNIVERSIDAD.jpg
@@ -319,16 +313,13 @@ INPUT C:\Users\A\Desktop\Programar\miketex\fonts\tfm\public\cm\cmbx12.tfm
 INPUT C:\Users\A\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
 INPUT C:\Users\A\Desktop\Programar\miketex\fonts\tfm\public\cm\cmr12.tfm
 INPUT C:\Users\A\Desktop\Programar\miketex\fonts\tfm\public\cm\cmbx12.tfm
-INPUT c:\Users\A\Desktop\Uandes\8vo_semestre\Hidrología\t1\TAREA_1_HIDROLOGIA\INFORME\build\informe.toc
-INPUT c:\Users\A\Desktop\Uandes\8vo_semestre\Hidrología\t1\TAREA_1_HIDROLOGIA\INFORME\build\informe.toc
-INPUT c:\Users\A\Desktop\Uandes\8vo_semestre\Hidrología\t1\TAREA_1_HIDROLOGIA\INFORME\build\informe.toc
-INPUT C:\Users\A\Desktop\Programar\miketex\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
-INPUT C:\Users\A\Desktop\Programar\miketex\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
 OUTPUT c:\Users\A\Desktop\Uandes\8vo_semestre\Hidrología\t1\TAREA_1_HIDROLOGIA\INFORME\build\informe.toc
 INPUT .\LOGO_UNIVERSIDAD.jpg
 INPUT .\LOGO_UNIVERSIDAD.jpg
 INPUT .\LOGO_UNIVERSIDAD.jpg
 INPUT .\LOGO_UNIVERSIDAD.jpg
+INPUT C:\Users\A\Desktop\Programar\miketex\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
+INPUT C:\Users\A\Desktop\Programar\miketex\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
 INPUT C:\Users\A\Desktop\Programar\miketex\fonts\tfm\jknappen\ec\tcrm1000.tfm
 INPUT C:\Users\A\Desktop\Programar\miketex\fonts\tfm\public\cm\cmti10.tfm
 INPUT .\LOGO_UNIVERSIDAD.jpg
@@ -370,6 +361,28 @@ INPUT .\LOGO_UNIVERSIDAD.jpg
 INPUT .\LOGO_UNIVERSIDAD.jpg
 INPUT .\LOGO_UNIVERSIDAD.jpg
 INPUT .\LOGO_UNIVERSIDAD.jpg
+INPUT .\GRAFICOS\Precipitación Mensual promedio.png
+INPUT .\GRAFICOS\Precipitación Mensual promedio.png
+INPUT .\GRAFICOS\Precipitación Mensual promedio.png
+INPUT .\GRAFICOS\Precipitación Mensual promedio.png
+INPUT .\GRAFICOS\Precipitación Mensual promedio.png
+INPUT .\GRAFICOS\Precipitación Mensual promedio.png
+INPUT .\GRAFICOS\Precipitación Mensual promedio.png
+INPUT .\LOGO_UNIVERSIDAD.jpg
+INPUT .\LOGO_UNIVERSIDAD.jpg
+INPUT .\LOGO_UNIVERSIDAD.jpg
+INPUT .\LOGO_UNIVERSIDAD.jpg
+INPUT .\LOGO_UNIVERSIDAD.jpg
+INPUT .\LOGO_UNIVERSIDAD.jpg
+INPUT .\LOGO_UNIVERSIDAD.jpg
+INPUT .\LOGO_UNIVERSIDAD.jpg
+INPUT .\GRAFICOS\Precipitación Anual.png
+INPUT .\GRAFICOS\Precipitación Anual.png
+INPUT .\GRAFICOS\Precipitación Anual.png
+INPUT .\GRAFICOS\Precipitación Anual.png
+INPUT .\GRAFICOS\Precipitación Anual.png
+INPUT .\GRAFICOS\Precipitación Anual.png
+INPUT .\GRAFICOS\Precipitación Anual.png
 INPUT .\LOGO_UNIVERSIDAD.jpg
 INPUT .\LOGO_UNIVERSIDAD.jpg
 INPUT .\LOGO_UNIVERSIDAD.jpg
