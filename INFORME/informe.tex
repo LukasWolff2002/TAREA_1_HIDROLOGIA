@@ -865,20 +865,22 @@ Las ecuaciones utilizadas son:
 Del balance hidrológico, tenemos:
 
 \begin{equation}
-    P_{\text{p}} + Q_{\text{afluente}} = E_{\text{v}} + E_{\text{T}} + Q_{\text{efluente}}
+    P_{\text{p}} + Q_{\text{afluente}} = E_{\text{v}} + ET + Q_{\text{efluente}}
 \end{equation}
 
 Donde:
 
 \begin{equation}
-    E_{\text{T}} = P_{\text{p}} - \text{Escurrimiento medio anual}
+    ET = P_{\text{p}} - \text{Escurrimiento medio anual}
 \end{equation}
 
 Reemplazando en la ecuación anterior:
 
 \begin{equation}
-    P_{\text{p}} + Q_{\text{afluente}} - E_{\text{v}} - E_{\text{T}} - Q_{\text{ecológico}} = Q_{\text{abastecimiento}}
+    P_{\text{p}} + Q_{\text{afluente}} - E_{\text{v}} - ET - Q_{\text{ecológico}} = Q_{\text{abastecimiento}}
 \end{equation}
+
+Como  $P_p$, $E_v$ y $ET$  tienen unidades de medida de m/s, se debe convertir a m\(^3\)/s, para ello se multiplica por el área total del embalse.
 
 \newpage
 \subsection{Resultados Obtenidos}
@@ -897,7 +899,7 @@ Los resultados obtenidos de los caudales se presentan en la siguiente tabla:
         \(Q_{\text{ecológico}}\) & 0.373 \\
         \(Q_{\text{Pp}}\) & 0.259 \\
         \(Q_{\text{Ev}}\) & 0.408 \\
-        \(E_{\text{T}}\) & \(1.11 \times 10^{-8}\) \\
+        \(Q_{\text{ET}}\) & \(0.144 \) \\
         \(Q_{\text{abastecimiento}}\) & 3.36 \\
         \bottomrule
     \end{tabular}
