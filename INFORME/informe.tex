@@ -9,7 +9,6 @@
 \usepackage{natbib} % Permite el uso de citas y referencias bibliográficas con diferentes estilos
 \usepackage{tikz} % Permite la creación de gráficos y diagramas vectoriales directamente en LaTeX
 \usepackage{float} % Para controlar la posición de los elementos flotantes, como imágenes, con la opción [H]
-\bibliographystyle{agsm} % Define el estilo de citas y bibliografía (en este caso, el estilo AGSM)
 \usepackage{diagbox} % Permite crear celdas con líneas diagonales en tablas
 \usepackage{listings} % Permite la inclusión y formateo de código fuente en el documento
 \usepackage{xcolor} % Paquete para definir y usar colores en el documento
@@ -210,9 +209,9 @@ Estas estaciones han sido clave para obtener datos meteorológicos relevantes en
 \newpage
 \subsection{Información de Caudales Medios}
 
-\subsubsection{Caudales Medios Mensuales}
+Se considerará un periodo de 30 años, comenzando el 1 de abril de 1993 y finalizando el 31 de marzo de 2023. El año hidrológico empieza en abril y termina en marzo. Los datos se obtuvieron de \textbf{\citet{snia2024}}
 
-Se considerará un periodo de 30 años, comenzando el 1 de abril de 1993 y finalizando el 31 de marzo de 2023. El año hidrológico empieza en abril y termina en marzo. Los datos se obtuvieron de \url{https://snia.mop.gob.cl/BNAConsultas/reportes}.
+\subsubsection{Caudales Medios Mensuales}
 
 A continuación se presentan los caudales medios mensuales por estación a la salida de la cuenca (Zona 1):
 
@@ -337,7 +336,7 @@ A continuación se presentan los caudales promedio por temporada, calculados a p
 \subsection{Información de Precipitaciones Medias}
 A continuación se presentan las precipitaciones totales por cada estación mensualmente, de esta forma, es posible obtener la precipitación media mensual. 
 
-Para obtener las precipitaciones, se utilizó la siguiente base de datos: \url{https://snia.mop.gob.cl/BNAConsultas/reportes}
+Para obtener las precipitaciones, se utilizó la base de datos \textbf{\citet{reportesSNIA}}
 
 \subsubsection{Estación Río Mapocho En Los Almendros}
 
@@ -868,5 +867,8 @@ En conclusión, los objetivos propuestos en este informe se han cumplido. Se ide
 Además, se logró estimar la evapotranspiración media anual, para así completar el balance hidrológico. Esto permitió evaluar aún más la disponibilidad de agua en la cuenca, considerando estas pérdidas. Los resultados obtenidos muestran la importancia de considerar la evapotranspiración para poder realizar una planificación hídrica completa y reducir el porcentaje de posibles errores al no considerar un factor de alta importancia.
 
 Este informe ofrece un resumen de la situación hidrológica de la cuenca del río Mapocho en Los Almendros, permitiéndonos realizar a futuro más estudios y estimaciones sobre lo que sucederá en la zona al momento de tomar decisiones, ya sea sobre la disponibilidad de agua o al momento de realizar proyectos en la región.
+
+\bibliographystyle{plainnat}  % Estilo de la bibliografía (puedes cambiarlo a otro si prefieres)
+\bibliography{referencias.bib}  % Nombre del archivo .bib
 
 \end{document}

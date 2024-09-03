@@ -1,0 +1,18 @@
+\begin{thebibliography}{2}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[rep(2024)]{reportesSNIA}
+Base nacional de aguas reportes.
+\newblock \url{https://snia.mop.gob.cl/BNAConsultas/reportes}, 2024.
+\newblock Accedido: 2024-09-08.
+
+\bibitem[de~Obras~Públicas(2024)]{snia2024}
+Ministerio de~Obras~Públicas.
+\newblock Base nacional de aguas, 2024.
+\newblock URL \url{https://snia.mop.gob.cl/BNAConsultas/reportes}.
+
+\end{thebibliography}
