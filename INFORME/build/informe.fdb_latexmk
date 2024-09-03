@@ -1,5 +1,11 @@
 # Fdb version 4
-["pdflatex"] 1725288756.39887 "c:/Users/A/Desktop/Uandes/8vo_semestre/Hidrología/t1/TAREA_1_HIDROLOGIA/INFORME/informe.tex" "build/informe.pdf" "informe" 1725288760.9629 0
+["bibtex informe"] 0 "informe.aux" "informe.bbl" "informe" 1725399324.95034 -1
+  "informe.aux" 0 -1 0 ""
+  (generated)
+  "informe.bbl"
+  "informe.blg"
+  (rewritten before read)
+["pdflatex"] 1725399320.488 "c:/Users/A/Desktop/Uandes/8vo_semestre/Hidrología/t1/TAREA_1_HIDROLOGIA/INFORME/informe.tex" "build/informe.pdf" "informe" 1725399324.95055 0
   "C:/Users/A/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1725209789 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/A/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcbx0900.pk" 1725225599 10788 9e60f114092553401f05ee1ef0ccb995 ""
   "C:/Users/A/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1000.pk" 1722890009 11548 068e7275f20c22bf76bbb3e7ea995c7a ""
@@ -180,11 +186,12 @@
   "GRAFICOS/Precipitación Anual.png" 1725227912 28581 bf1f324763eba570525036528919804d ""
   "GRAFICOS/Precipitación Mensual promedio.png" 1725227912 40176 7d1b28e2e82b9a9081af56479c657981 ""
   "LOGO_UNIVERSIDAD.jpg" 1725225541 209820 2134e729a4493a99d3d34c719af1eecf ""
-  "build/informe.aux" 1725288760 9517 b9e71e659cf99940bd0c4e232190225a "pdflatex"
-  "build/informe.out" 1725288760 7384 705cb9b25c014422ca08fe2758d7db32 "pdflatex"
-  "build/informe.toc" 1725288760 3281 61093ae304a307782f0b6381c1f34180 "pdflatex"
-  "c:/Users/A/Desktop/Uandes/8vo_semestre/Hidrología/t1/TAREA_1_HIDROLOGIA/INFORME/informe.tex" 1725288747 46167 9a5e29e7ddad7fc250267d5d90969ef6 ""
-  "informe.tex" 1725288747 46167 9a5e29e7ddad7fc250267d5d90969ef6 ""
+  "build/informe.aux" 1725399324 10053 07eb939b2ebf4b1aeaeab41f61b7305e "pdflatex"
+  "build/informe.out" 1725399324 7769 919148761910de480744c64d98f7fcca "pdflatex"
+  "build/informe.toc" 1725399324 3420 35fe7d26a9432abce212811da57f913c "pdflatex"
+  "c:/Users/A/Desktop/Uandes/8vo_semestre/Hidrología/t1/TAREA_1_HIDROLOGIA/INFORME/informe.tex" 1725399316 47866 7682cf883a1ed422435e9ae29f32d0b6 ""
+  "informe.bbl" 1725397346 646 6a01f436be5da7a8e6ff2c1245d15d94 "bibtex informe"
+  "informe.tex" 1725399316 47866 7682cf883a1ed422435e9ae29f32d0b6 ""
   (generated)
   "build/informe.aux"
   "build/informe.log"
